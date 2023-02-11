@@ -22,7 +22,7 @@
     "mongoose": "^5.9.18"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.20"
   },
   "bugs": {
     "url": "https://github.com/AlissonGRN/NodeJs-Login-System/issues"
